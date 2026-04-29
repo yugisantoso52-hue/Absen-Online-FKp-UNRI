@@ -1,0 +1,9 @@
+{
+  "name": "Absensi Pro",
+  "description": "Sistem absensi digital modern dengan verifikasi lokasi GPS dan foto kamera.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
